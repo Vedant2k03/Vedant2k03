@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vedant2k03
+- 👋 Hi, I’m Vedant
 - 👀 I’m interested in Cybersecurity and BlockchainTechnology
 - 🌱 I’m currently learning DSA 
 - 💞️ I’m looking to collaborate on all sorts of projects
