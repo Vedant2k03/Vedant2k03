@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vedant
 - 👀 I’m interested in Cybersecurity and BlockchainTechnology
-- 🌱 I’m currently learning DSA 
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on all sorts of projects
 - 📫 You can reach to me at LinkedIn @www.linkedin.com/in/vedant-devre 
 
